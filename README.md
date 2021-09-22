@@ -16,8 +16,6 @@ Important: Be sure to pay attention to the sample question in the text file.
 ## Usage
 
 ```python
-import quiz
-
 # When you enter the module, the game runs and waits for your commands.
 >>> import quiz
 Welcome to the Quiz Terminal game
