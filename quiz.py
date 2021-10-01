@@ -274,7 +274,7 @@ def app_run():
         edit()
     elif run == "delete":
         delete()
-    if run == "update":
+    elif run == "update":
         update()
     elif run not in list_comm:
         print("commend not found you can use the help commend to see more information")
